@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://boring-brahmagupta-1a463f.netlify.app/"
 languageCode = "en-us"
 title = "DEVCLASS Blog"
 theme = "devclass-theme"
