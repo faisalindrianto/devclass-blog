@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "DEVCLASS Blog"
+theme = "devclass-theme"
+
+[taxonomies]
+category = "categories"
